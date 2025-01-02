@@ -13,7 +13,7 @@
          "Tantifilm":{
              "domain": "bond",
              "TF_ForwardProxy": "0",
-             "TF_PROXY": "0",
+             "TF_PROXY": "1",
              "enabled": "1"
          },
          "Mysterius":{
@@ -35,10 +35,10 @@
         "DDLStream":{
             "domain":"co",
             "cookies" : {
-                "ips4_device_key": null,
-                "ips4_IPSSessionFront": null,
-                "ips4_member_id": null,
-                "ips4_login_key": null
+                "ips4_device_key": "b6f084be79c28bb53ecfc556fd7a2a70",
+                "ips4_IPSSessionFront": "f2b9db91793e084cf2003a07c563e6aa",
+                "ips4_member_id": "4029711",
+                "ips4_login_key": "41b6a70b16cce2fd39482f5b21a9c35f"
                 },
             "enabled":"1"
         },
@@ -46,13 +46,13 @@
             "domain":"academy",
             "enabled":"1",
             "GS_ForwardProxy":"0",
-            "GS_PROXY":"0"
+            "GS_PROXY":"1"
         },
         "GuardaHD":{
             "domain":"stream",
             "enabled":"1",
             "GH_ForwardProxy":"0",
-            "GH_PROXY":"0"
+            "GH_PROXY":"1"
         },
         "AnimeWorld":{
             "domain":"so",
@@ -72,7 +72,7 @@
      "HOST": "0.0.0.0",
      "PORT": "8080",
      "Name": "MammaMia",
-     "Icon": "🍕️",
+     "Icon": "⚡️",
      "Public_Instance": "0",
      "Remote_Instance": "1",
      "Global_Proxy": "0"
