@@ -4,7 +4,7 @@
                "domain": "prof",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
-               "VX_ForwardProxy": "0",
+               "VX_ForwardProxy": "1",
                "VX_PROXY": "0",
                "enabled": "1"
            },
@@ -14,12 +14,12 @@
            },
            "Tantifilm":{
                "domain": "bond",
-               "TF_ForwardProxy": "0",
+               "TF_ForwardProxy": "1",
                "TF_PROXY": "0",
                "enabled": "1"
            },
            "Mysterius":{
-               "enabled": "0"    
+               "enabled": "1"    
            },
           "LordChannel":{
                "domain":"com",
@@ -31,7 +31,7 @@
           },
           "CB01":{
               "domain":"sbs",
-              "CB_PROXY":"0",
+              "CB_PROXY":"1",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
@@ -40,23 +40,23 @@
           "DDLStream":{
               "domain":"co",
               "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
+                  "ips4_device_key": "b6f084be79c28bb53ecfc556fd7a2a70",
+                  "ips4_IPSSessionFront": "f2b9db91793e084cf2003a07c563e6aa",
+                  "ips4_member_id": "4029711",
+                  "ips4_login_key": "41b6a70b16cce2fd39482f5b21a9c35f"
                   },
               "enabled":"1"
           },
           "Guardaserie":{
               "domain":"academy",
               "enabled":"1",
-              "GS_ForwardProxy":"0",
+              "GS_ForwardProxy":"1",
               "GS_PROXY":"0"
           },
           "GuardaHD":{
               "domain":"stream",
               "enabled":"1",
-              "GH_ForwardProxy":"0",
+              "GH_ForwardProxy":"1",
               "GH_PROXY":"0"
           },
           "AnimeWorld":{
@@ -79,10 +79,9 @@
        "HOST": "0.0.0.0",
        "PORT": "8080",
        "Name": "MammaMia",
-       "Icon": "🍕️",
+       "Icon": "⚡️ ",
        "Public_Instance": "0",
        "Remote_Instance": "1",
        "Global_Proxy": "0"
        }
   }
-  
