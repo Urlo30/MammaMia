@@ -4,7 +4,7 @@
                "url": "https://streamingcommunity.paris",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
-               "VX_ForwardProxy": "0",
+               "VX_ForwardProxy": "1",
                "VX_PROXY": "0",
                "enabled": "1"
            },
@@ -15,7 +15,7 @@
            "Tantifilm":{
                "url": "https://www.tanti.bond",
                "TF_ForwardProxy": "0",
-               "TF_PROXY": "0",
+               "TF_PROXY": "1",
                "enabled": "1"
            },
            "Mysterius":{
@@ -40,35 +40,35 @@
           "DDLStream":{
               "url":"https://ddlstreamitaly.co",
               "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
+                  "ips4_device_key": "b6f084be79c28bb53ecfc556fd7a2a70",
+                  "ips4_IPSSessionFront": "f2b9db91793e084cf2003a07c563e6aa",
+                  "ips4_member_id": "4029711",
+                  "ips4_login_key": "   "
                   },
               "enabled":"1"
           },
           "Guardaserie":{
               "url":"https://guardaserietv.mom",
               "enabled":"1",
-              "GS_ForwardProxy":"0",
+              "GS_ForwardProxy":"1",
               "GS_PROXY":"0"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
               "enabled":"1",
-              "GH_ForwardProxy":"0",
+              "GH_ForwardProxy":"1",
               "GH_PROXY":"0"
           },
           "Onlineserietv":{
               "domain":"com",
               "enabled":"1",
               "OST_ForwardProxy":"0",
-              "OST_PROXY":"0"
+              "OST_PROXY":"1"
           },
           "AnimeWorld":{
               "url":"https://www.animeworld.so",
               "enabled":"1",
-              "AW_ForwardProxy":"0",
+              "AW_ForwardProxy":"1",
               "AW_PROXY":"0"
           },
           "SkyStreaming":{
