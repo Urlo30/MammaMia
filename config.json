@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingcommunity.paris",
+               "url": "https://streamingunity.blog",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -10,13 +10,13 @@
            },
            "Filmpertutti": {
                "url": "https://filmpertutti.motorcycles",
-               "enabled": "1"
+               "enabled": "0"
            },
            "Tantifilm":{
                "url": "https://www.tanti.bond",
                "TF_ForwardProxy": "0",
                "TF_PROXY": "0",
-               "enabled": "1"
+               "enabled": "0"
            },
            "Mysterius":{
                "enabled": "0"    
@@ -30,7 +30,7 @@
               "enabled":"1"
           },
           "CB01":{
-              "url":"https://cb01new.loan",
+              "url":"https://cb01.uno",
               "CB_PROXY":"0",
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
@@ -48,20 +48,20 @@
               "enabled":"1"
           },
           "Guardaserie":{
-              "url":"https://guardaserietv.mom",
+              "url":"https://guardaserietv.blog",
               "enabled":"1",
-              "GS_ForwardProxy":"0",
+              "GS_ForwardProxy":"1",
               "GS_PROXY":"0"
           },
           "GuardaHD":{
               "url":"https://mostraguarda.stream",
               "enabled":"1",
-              "GH_ForwardProxy":"0",
+              "GH_ForwardProxy":"1",
               "GH_PROXY":"0"
           },
           "Onlineserietv":{
               "domain":"com",
-              "enabled":"1",
+              "enabled":"0",
               "OST_ForwardProxy":"0",
               "OST_PROXY":"0"
           },
