@@ -1,7 +1,7 @@
 {
     "Siti": {
            "StreamingCommunity": {
-               "url": "https://streamingunity.blog",
+               "url": "https://vixsrc.to",
                "SC_ForwardProxy": "0",
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
@@ -23,7 +23,7 @@
            },
           "LordChannel":{
                "url":"https://lordchannel.net",
-               "enabled":"1"
+               "enabled":"0"
           },
           "StreamingWatch":{
               "url":"https://www.streamingwatch.org",
@@ -45,7 +45,7 @@
                   "ips4_member_id": "4029711",
                   "ips4_login_key": "eb49a9f6a985fd705d4114e23803cfdc"
                   },
-              "enabled":"1"
+              "enabled":"0"
           },
           "Guardaserie":{
               "url":"https://guardaserietv.blog",
